@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "chefName": "Drew Martin",
+        "chefPic": "",
+        "experience": "3",
+        "recipesNumber": "15",
+        "likes": "43",
+        "description": "Food amet consectetur adipisicing elit. Nulla quo amet expedita facilis suscipit odio odit nam porro ipsum ex, pariatur neque animi, officia sequi, minima nihil velit quas perferendis illo! Voluptatum nesciunt numquam omnis quidem ducimus repellendus quam aspernatur harum ut incidunt, eius, ex corrupti laborum temporibus distinctio maxime officia beatae tempore perspiciatis mollitia? Ab illum facere itaque sit molestias corrupti consectetur assumenda ex a iste ratione perspiciatis.",
+        "recipeOne": {
+            "recipeImg": "",
+            "recipeName": "Spaghetti Carbonara",
+            "ingredients": "spaghetti, eggs, Parmesan cheese, bacon, black pepper",
+            "cookingMethod": "Voluptatum nesciunt numquam omnis quidem ducimus repellendus quam aspernatur harum ut incidunt, eius, ex corrupti laborum temporibus distinctio maxime officia beatae tempore perspiciatis mollitia? Ab illum facere itaque sit molestias corrupti consectetur assumenda ex a iste ratione perspiciatis.",
+            "rating": "4.2"
+        },
+        "recipeTwo": {
+            "recipeImg": "",
+            "recipeName": "Margherita Pizza",
+            "ingredients": "pizza dough, tomatoes, mozzarella cheese, basil leaves, olive oil",
+            "cookingMethod": "Voluptatum nesciunt numquam omnis quidem ducimus repellendus quam aspernatur harum ut incidunt, eius, ex corrupti laborum temporibus distinctio maxime officia beatae tempore perspiciatis mollitia? Ab illum facere itaque sit molestias corrupti consectetur assumenda ex a iste ratione perspiciatis.",
+            "rating": "4.5"
+        },
+        "recipeThree": {
+            "recipeImg": "",
+            "recipeName": "Tiramisu",
+            "ingredients": "ladyfingers, espresso coffee, mascarpone cheese, eggs, sugar",
+            "cookingMethod": "Voluptatum nesciunt numquam omnis quidem ducimus repellendus quam aspernatur harum ut incidunt, eius, ex corrupti laborum temporibus distinctio maxime officia beatae tempore perspiciatis mollitia? Ab illum facere itaque sit molestias corrupti consectetur assumenda ex a iste ratione perspiciatis.",
+            "rating": "4.5"
+        }
+    }
+]
